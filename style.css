@@ -81,7 +81,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
-    background-image: url(/imgs/bg_img2.jfif);
+    background-image: url(./imgs/bg_img2.jfif);
     background-position: bottom;
     background-size: cover;
     height: 190px;
