@@ -5,19 +5,19 @@
 }
 @font-face {
     font-family: "logo_text";
-    src: url(/fonts/ChakraPetch-Bold.ttf);
+    src: url(./fonts/ChakraPetch-Bold.ttf);
 }
 @font-face {
     font-family: "corpo_text";
-    src: url(/fonts/Montserrat-Light.ttf);
+    src: url(./fonts/Montserrat-Light.ttf);
 }
 @font-face {
     font-family: "titulo_text";
-    src: url(/fonts/Montserrat-Bold.ttf);
+    src: url(./fonts/Montserrat-Bold.ttf);
 }
 @font-face {
     font-family: "nav_text";
-    src: url(/fonts/MarkaziText-SemiBold.ttf);
+    src: url(./fonts/MarkaziText-SemiBold.ttf);
 }
 
 .corpo{
@@ -119,6 +119,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    overflow: visible;
     background-color: #2B2D42;
     height: 60px;
     border: 2px solid rgb(48, 48, 48);
